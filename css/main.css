@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   font:  300 16px/22px "Lato","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.header{
+    background-color: #293f50;
+    color: white;
+  position: sticky;
+  padding-top: 3%;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    margin-left: 16px;
+    font-size: 14px;
+  
+}
+.header h1{
+    display: inline-block;
+    margin-left: 8%;
+    line-height: 100%;
+    font-weight: lighter;
+    font-size: 42px;
+}
+.upper-div{
+    display: inline-block;
+    line-height: 240%;
+    margin-left: 34%;
+}
+.upper-div h2{
+    font-size:21px ;
+    color: rgb(104, 136, 83);
+    margin-left: 37%;
+    font-weight: lighter;
+}
+.section1{
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: #293f50;
+    color: white;
+    padding: 1%;
+    padding-top: 4%;
+   
+}
+button{
+    background-color:  #293f50;
+    border:2px solid white;
+    padding: 1%;
+   color: white;
+   font-size: 15px;
+   border-radius: 5px;
+   margin-top: 2%;
+   margin-bottom: 3%;
+
+}
+.section1 h3{
+    color:rgb(104, 136, 83);
+    font-weight: lighter;
+    font-size: 32px;
+
+}
+.section1 p{
+    font-weight: lighter;
+    font-size: 20px;
+    margin-top: 1%;
+    line-height: 160%;
+    
+}
+.inner-section{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 26%; 
+    margin-left: 2%; 
+    margin-top: 4%;
+}
+.grid{
+    display: flex;
+    justify-content: center;
+}
+.grid img{
+        border-radius: 7px;
+        display: block;
+        margin-bottom: 22px;
+        max-width: 100%;
+        margin-top: 5%;
+    }
+.grid p{
+        color: #888;
+        margin-top: 7%;
+    }
+.grid h5{
+    color: #888;
+}
+.grid a {
+    color: rgb(167, 167, 105);
+    text-decoration: none;
+}
+
+.footer{
+    background-color: #293f50;;
+    color: white;
+    margin-top: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+.footer a{
+    text-decoration: none;
+    color: white;
+    padding-left: 1%;
+}
+.footer p{
+    display: inline;
+    margin-left: 5%;
+    color:rgb(104, 136, 83);
+}
+.footer nav{
+    display: inline;
+   margin-left: 50%;
+}
