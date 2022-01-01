@@ -11,6 +11,9 @@ body{
     color: white;
   position: sticky;
   padding-top: 3%;
+  /* border-top: 5px solid rgb(104, 136, 83); */
+
+
 }
 .header a{
     text-decoration: none;

@@ -1,0 +1,70 @@
+.row-section{
+    background: linear-gradient(to right,#a1d3b0,#f6f1d3);
+    padding: 44px 0 22px;
+    text-align: center;
+}
+.div-register h1{
+    font-size: 35px;
+    font-weight: lighter;
+    color: rgb(95, 129, 72);
+}
+.div-register p{
+   padding-top: 20px;
+   padding-bottom: 20px;
+   font-size: 24px;
+   line-height: 35px;
+}
+
+.left-div{
+   
+    margin-left: 7%;
+   display: inline-block;
+  
+
+}
+.left-div h2{
+    color: rgb(95, 129, 72);
+    font-weight: lighter;
+    font-size: 25px;
+}
+.left-div h3{
+    padding-top: 18px;
+    color: rgb(95, 129, 72);
+    font-weight: lighter;
+}
+.left-div h5{
+    padding-top: 10px;
+    color: grey;
+}
+.left-div p{
+    padding-top: 20px;
+    font-size: 17px;
+}
+
+.left-div ul{
+    padding-left: 30px;
+    font-size: 17px;
+}
+.right-div{
+    display: inline-block;
+    margin-left: 9%;
+   
+}
+.right-div label{
+    color: rgb(95, 129, 72);
+    font-weight:bold
+}
+.right-div input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: grey;
+    margin-bottom: 10%;
+}
+.right-div button{
+    color: white;
+    background-color: rgb(95, 129, 72);
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
