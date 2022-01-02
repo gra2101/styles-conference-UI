@@ -18,7 +18,8 @@
 .left-div{
    
     margin-left: 7%;
-   display: inline-block;
+   float: left;
+   margin-top: 5%;
   
 
 }
@@ -46,8 +47,10 @@
     font-size: 17px;
 }
 .right-div{
-    display: inline-block;
-    margin-left: 9%;
+    float: right;
+    margin-right: 8%;
+    margin-top: 5%;
+    margin-bottom: 4%;
    
 }
 .right-div label{
@@ -67,4 +70,5 @@
     padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 4%;
 }
