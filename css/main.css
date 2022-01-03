@@ -10,7 +10,6 @@ body{
     background-color: #293f50;
     color: white;
   position: sticky;
-  padding-top: 3%;
   padding-bottom: 2%;
   /* border-top: 5px solid rgb(104, 136, 83); */
 
@@ -25,19 +24,21 @@ body{
 }
 .header h1{
     display: inline-block;
-    margin-left: 8%;
+    margin-left: 15%;
     line-height: 100%;
     font-weight: lighter;
-    font-size: 42px;
+    font-size: 47px;
+    border-top: 5px solid #a1d3b0;
+  padding-top: 3%;
 }
 .upper-div{
     display: inline-block;
     line-height: 240%;
-    margin-left: 34%;
+    margin-left: 19%;
 }
 .upper-div h2{
     font-size:21px ;
-    color: rgb(104, 136, 83);
+    color: #a1d3b0;
     margin-left: 37%;
     font-weight: lighter;
 }
@@ -47,31 +48,31 @@ body{
     background-color: #293f50;
     color: white;
     padding: 1%;
-    padding-top: 1%;
+    padding-top: 3%;
    
 }
 button{
     background-color:  #293f50;
     border:2px solid white;
-    padding: 1%;
+    padding: 2%;
    color: white;
-   font-size: 15px;
+   font-size: 17px;
    border-radius: 5px;
    margin-top: 2%;
    margin-bottom: 3%;
 
 }
 .section1 h3{
-    color:rgb(104, 136, 83);
+    color:#a1d3b0;
     font-weight: lighter;
-    font-size: 32px;
+    font-size: 34px;
 
 }
 .section1 p{
     font-weight: lighter;
-    font-size: 20px;
+    font-size: 21px;
     margin-top: 1%;
-    line-height: 160%;
+    line-height: 200%;
     
 }
 .inner-section{
@@ -121,7 +122,7 @@ button{
 .footer p{
     display: inline;
     margin-left: 5%;
-    color:rgb(104, 136, 83);
+    color:#a1d3b0;
 }
 .footer nav{
     display: inline;

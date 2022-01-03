@@ -3,14 +3,44 @@
     padding: 44px 0 22px;
     text-align: center;
 }
+.div-schedule{
+    padding-top: 20px;
+    padding-bottom: 23px;
+}
 .div-schedule h1{
     font-size: 35px;
     font-weight: lighter;
-    color: rgb(95, 129, 72);
+    color: #659c75;
 }
 .div-schedule p{
    padding-top: 20px;
    padding-bottom: 20px;
    font-size: 24px;
    line-height: 35px;
+}
+.side1{
+    color: grey;
+    font-weight: lighter;
+    margin-left: 5.8%;
+    padding-top: 20px;
+}
+.mid-section{
+    margin-top: 5%;
+}
+.mid-div-left{
+    margin-left: 7%;
+    float: left;
+    
+}
+.mid-div-right{
+    float: right;
+   width: 79%;
+}
+.inner-left{
+    float: left;
+    
+}
+.inner-right{
+   float: right;
+   margin-right: 45%;
 }

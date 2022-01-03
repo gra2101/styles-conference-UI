@@ -6,11 +6,49 @@
 .div-venue h1{
     font-size: 35px;
     font-weight: lighter;
-    color: rgb(95, 129, 72);
+    color: #659c75;
+}
+.div-venue{
+    padding-top: 20px;
+    padding-bottom: 23px;
 }
 .div-venue p{
-   padding-top: 20px;
-   padding-bottom: 20px;
+   padding-top: 22px;
+   padding-bottom: 22px;
    font-size: 24px;
    line-height: 35px;
+}
+.venue-sec{
+    margin-top: 5%;
+}
+.venue-left{
+    display: grid;
+    margin-left: 15%;
+    float: left;
+    padding-top: 1%;
+}
+.venue-left h2{
+    font-weight: lighter;
+}
+.venue-left a{
+    color: #648880;
+    text-decoration: none;
+    border-bottom: 1px solid rgb(223, 221, 221) ;
+   
+    /* text-decoration: 1px rgb(177, 175, 175) underline; */
+}
+.venue-left p{
+    padding-top: 13px;
+    color: grey;
+    font-size: 18px;
+    font-weight: lighter;
+
+}
+.venue-sec iframe{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 40%;
+  width: 44%;
+  height: 280px;
+ 
 }

@@ -3,10 +3,14 @@
     padding: 44px 0 22px;
     text-align: center;
 }
+.div-register{
+    padding-top: 20px;
+    padding-bottom: 23px;
+}
 .div-register h1{
     font-size: 35px;
     font-weight: lighter;
-    color: rgb(95, 129, 72);
+    color: #659c75;
 }
 .div-register p{
    padding-top: 20px;
